@@ -15,7 +15,7 @@ type Philosopher struct {
 
 const (
 	RandSecond      = 1e9
-	NOfPhilosophers = 50
+	NOfPhilosophers = 8000
 	Phil            = "Phil"
 )
 
